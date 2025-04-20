@@ -789,10 +789,6 @@ footer {
 .footer-container {
   display: grid;
   grid-template-columns: 2fr 1fr 1fr 1fr;
-  /* align-items: center;
-    justify-content: center; */
-  /* text-align: left;
-    border: 1px solid #eee; */
 }
 
 .logo-name p {
